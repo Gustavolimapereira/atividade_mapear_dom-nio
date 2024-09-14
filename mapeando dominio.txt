@@ -1,0 +1,13 @@
+Entidades de Domínio:
+Produto
+Estoque
+Ordem de Compra
+Fornecedor
+
+Casos de Uso (Ações):
+Rastrear produto por ID
+Definir quantidade mínima de estoque
+Enviar alertas de estoque por e-mail e pelo sistema
+Visualizar histórico de vendas e de estoque
+Gerenciar ordens de compra
+Integrar com fornecedores
